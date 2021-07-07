@@ -1,0 +1,330 @@
+{
+  "tanks": [
+    {
+      "name": "1DEEP",
+      "density": 1.0249999761581421,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "2DBP",
+      "density": 1.0249999761581421,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "2DBS",
+      "density": 1.0249999761581421,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "2WIP",
+      "density": 1.0249999761581421,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "2WIS",
+      "density": 1.0249999761581421,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "3DBP",
+      "density": 1.0249999761581421,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "3DBS",
+      "density": 1.0249999761581421,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "4DBP",
+      "density": 1.0249999761581421,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "4DBS",
+      "density": 1.0249999761581421,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "6DBP",
+      "density": 1.0249999761581421,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "6DBS",
+      "density": 1.0249999761581421,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "6WIP",
+      "density": 1.0249999761581421,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "6WIS",
+      "density": 1.0249999761581421,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "7DBP",
+      "density": 1.0249999761581421,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "7DBS",
+      "density": 1.0249999761581421,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "APT",
+      "density": 1.0249999761581421,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "FWP",
+      "density": 1.0,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "FWS",
+      "density": 1.0,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "3FOP",
+      "density": 0.98000001907348633,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "3FOS",
+      "density": 0.98000001907348633,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "4FOP",
+      "density": 0.98000001907348633,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "4FOS",
+      "density": 0.98000001907348633,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "7FOP",
+      "density": 0.85000002384185791,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "7FOS",
+      "density": 0.98000001907348633,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "1SET",
+      "density": 0.98000001907348633,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "2SET",
+      "density": 0.98000001907348633,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "FOSER",
+      "density": 0.98000001907348633,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "DOST",
+      "density": 0.85000002384185791,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "DOSER",
+      "density": 0.85000002384185791,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "DOSET",
+      "density": 0.85000002384185791,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "1MECY",
+      "density": 0.89999997615814209,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "2MECY",
+      "density": 0.89999997615814209,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "CYSER",
+      "density": 0.89999997615814209,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "SOSTO",
+      "density": 0.89999997615814209,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "SOSET",
+      "density": 0.89999997615814209,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "SOSUM",
+      "density": 0.89999997615814209,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "GESOS",
+      "density": 0.89999997615814209,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "1GSYS",
+      "density": 0.89999997615814209,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "2GSYS",
+      "density": 0.89999997615814209,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "FOVER",
+      "density": 1.0,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "1SLUD",
+      "density": 1.0,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "2SLUD",
+      "density": 1.0,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "AIRDR",
+      "density": 1.0,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "WAS",
+      "density": 1.0,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "SUMP",
+      "density": 1.0,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "BIHOL",
+      "density": 1.0,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    },
+    {
+      "name": "COOL",
+      "density": 1.0,
+      "percentageFilled": 0.0,
+      "maxFs": false
+    }
+  ],
+  "containers": [
+    {
+      "id": "1",
+      "containerId": "NCVS0000000",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "170202",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5,
+      "empty": false
+    },
+    {
+      "id": "2",
+      "containerId": "NCVS0000001",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "170204",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5,
+      "empty": false
+    },
+    {
+      "id": "3",
+      "containerId": "NCVS0000002",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "170102",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5,
+      "empty": false
+    }
+  ],
+  "constants": [],
+  "settings": {
+    "seawaterDensity": 1.025,
+    "gmLimitMode": "0",
+    "defaultContainerRelativeVcg": 0.0
+  }
+}
