@@ -1,0 +1,79 @@
+{
+  "containers": [
+    {
+      "openTop": false,
+      "foodStuff": false,
+      "dangerousGoods": [
+        {
+          "un": 4,
+          "class": "1.1D",
+          "stowageCategory": "4",
+          "technicalName": ""
+        }
+      ],
+      "id": "1",
+      "containerId": "NCVS0000000",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "170202",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5,
+      "liveReefer": false,
+      "doorOrientationAft": false,
+      "empty": false
+    },
+    {
+      "openTop": false,
+      "foodStuff": false,
+      "dangerousGoods": [
+        {
+          "un": 4,
+          "class": "1.1D",
+          "stowageCategory": "4",
+          "technicalName": ""
+        }
+      ],
+      "id": "2",
+      "containerId": "NCVS0000001",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "170204",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5,
+      "liveReefer": false,
+      "doorOrientationAft": false,
+      "empty": false
+    },
+    {
+      "openTop": false,
+      "foodStuff": false,
+      "dangerousGoods": [
+        {
+          "un": 1234,
+          "class": "3",
+          "packingGroup": 2,
+          "stowageCategory": "69",
+          "technicalName": "",
+          "flashpoint": -28.0
+        }
+      ],
+      "id": "3",
+      "containerId": "NCVS0000002",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "170102",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5,
+      "liveReefer": false,
+      "doorOrientationAft": false,
+      "empty": false
+    }
+  ],
+  "containerToCheck": []
+}
