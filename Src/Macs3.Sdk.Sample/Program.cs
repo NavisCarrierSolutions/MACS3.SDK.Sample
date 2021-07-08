@@ -1,21 +1,25 @@
-﻿using System.IO;
-using System.Threading;
-using System.Threading.Tasks;
-using Macs3.Calculations.DaGo.Abstractions.Models.DaGo;
+﻿using Macs3.Calculations.DaGo.Abstractions.Models.DaGo;
 using Macs3.Calculations.Stability.Abstractions.Models.Calculations;
 using Newtonsoft.Json;
+using System;
+using System.IO;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace Macs3.Sdk.Sample
 {
-    internal class Program
+    internal static class Program
     {
-        private static void Main()
+        private static async Task Main()
         {
             var source = new CancellationTokenSource();
             var token = source.Token;
 
-            PerformStabilityCalculationAsync(token).Wait(token);
-            PerformDaGoCheckAsync(token).Wait(token);
+            await PerformStabilityCalculationAsync(token);
+            await PerformDaGoCheckAsync(token);
+
+            Console.Write("Press any key to exit... ");
+            Console.ReadKey();
         }
 
         private static async Task PerformStabilityCalculationAsync(CancellationToken token)
@@ -38,10 +42,10 @@ namespace Macs3.Sdk.Sample
             // Get the calculation parameters for the vessel and perform a calculation.
             var result1 = await service.Parameters();
             var result2 = await service.Calculate(parameters);
-            
+
             // Write the results on the console.
-            System.Console.WriteLine(JsonConvert.SerializeObject(result1, Formatting.Indented));
-            System.Console.WriteLine(JsonConvert.SerializeObject(result2, Formatting.Indented));
+            Console.WriteLine(JsonConvert.SerializeObject(result1, Formatting.Indented));
+            Console.WriteLine(JsonConvert.SerializeObject(result2, Formatting.Indented));
         }
 
         private static async Task PerformDaGoCheckAsync(CancellationToken token)
@@ -65,8 +69,7 @@ namespace Macs3.Sdk.Sample
             var result = await service.DaGoCheckResult(parameters);
 
             // Write the results on the console.
-            System.Console.WriteLine(JsonConvert.SerializeObject(result, Formatting.Indented));
-            System.Console.ReadKey();
+            Console.WriteLine(JsonConvert.SerializeObject(result, Formatting.Indented));
         }
     }
 }
