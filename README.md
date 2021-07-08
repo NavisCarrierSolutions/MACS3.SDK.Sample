@@ -10,7 +10,8 @@ It is recommended to use a local feed to make the package available for the rest
 In order to use the SDK, you need a product key to enable a license and to fetch vessel profile descriptions to perform the calculations and checks. Reach out to api.macs3@navis.com to get started.
 
 ## Prerequisites
-- Microsoft .net Framework 4.8
+- Microsoft .NET Framework 4.8
+- Visual C++ 2019 redistributable
 - Make sure the package `Macs3.Sdk` is available via a local package source.
 - Make sure you have a valid product key to activate the SDK.
 
