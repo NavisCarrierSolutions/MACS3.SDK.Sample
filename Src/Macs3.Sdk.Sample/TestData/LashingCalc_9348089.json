@@ -1,0 +1,338 @@
+{
+  "parameters": {
+    "gm": 2.0,
+    "draft": 6.0
+  },
+  "containers": [
+    {
+      "id": "1",
+      "containerId": "NCVS0000000",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190482",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "2",
+      "containerId": "NCVS0000001",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190484",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "3",
+      "containerId": "NCVS0000002",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190486",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "4",
+      "containerId": "NCVS0000003",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190282",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "5",
+      "containerId": "NCVS0000004",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190284",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "6",
+      "containerId": "NCVS0000005",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190286",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "7",
+      "containerId": "NCVS0000006",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190182",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "8",
+      "containerId": "NCVS0000007",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190184",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "9",
+      "containerId": "NCVS0000008",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190186",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "10",
+      "containerId": "NCVS0000009",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190382",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "11",
+      "containerId": "NCVS0000010",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190384",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "12",
+      "containerId": "NCVS0000011",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190386",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "13",
+      "containerId": "NCVS0000012",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190682",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "14",
+      "containerId": "NCVS0000013",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190684",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "15",
+      "containerId": "NCVS0000014",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190582",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "16",
+      "containerId": "NCVS0000015",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190584",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "17",
+      "containerId": "NCVS0000016",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190288",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "18",
+      "containerId": "NCVS0000017",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190188",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "19",
+      "containerId": "NCVS0000018",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190290",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "20",
+      "containerId": "NCVS0000019",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190190",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "21",
+      "containerId": "NCVS0000020",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190488",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "22",
+      "containerId": "NCVS0000021",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190388",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "23",
+      "containerId": "NCVS0000022",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190686",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "24",
+      "containerId": "NCVS0000023",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190586",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "25",
+      "containerId": "NCVS0000024",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190882",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "26",
+      "containerId": "NCVS0000025",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190884",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "27",
+      "containerId": "NCVS0000026",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190782",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "28",
+      "containerId": "NCVS0000027",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190784",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "29",
+      "containerId": "NCVS0000028",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "191082",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "30",
+      "containerId": "NCVS0000029",
+      "typeIsoCode": "22G0",
+      "grossWeight": 10.0,
+      "position": "190982",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 6.058,
+      "relativeVcg": 0.5
+    }
+  ]
+}
