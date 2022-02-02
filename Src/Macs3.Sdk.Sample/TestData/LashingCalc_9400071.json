@@ -1,0 +1,53 @@
+{
+  "parameters": {
+    "gm": 2.0,
+    "draft": 10.0
+  },
+  "containers": [
+    {
+      "id": "1",
+      "containerId": "NCVS0000000",
+      "typeIsoCode": "42G0",
+      "grossWeight": 10.0,
+      "position": "340282",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 12.192,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "2",
+      "containerId": "NCVS0000001",
+      "typeIsoCode": "42G0",
+      "grossWeight": 10.0,
+      "position": "340284",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 12.192,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "3",
+      "containerId": "NCVS0000002",
+      "typeIsoCode": "42G0",
+      "grossWeight": 10.0,
+      "position": "340286",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 12.192,
+      "relativeVcg": 0.5
+    },
+    {
+      "id": "4",
+      "containerId": "NCVS0000003",
+      "typeIsoCode": "42G0",
+      "grossWeight": 10.0,
+      "position": "340288",
+      "height": 2.591,
+      "width": 2.438,
+      "length": 12.192,
+      "relativeVcg": 0.5
+    }
+  
+  ]
+}
